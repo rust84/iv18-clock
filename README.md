@@ -40,6 +40,19 @@ Go to Tools > Manage Libraries... and add install
 - WifiManager https://github.com/tzapu/WiFiManager
 - Arduinojson https://arduinojson.org/?utm_source=meta&utm_medium=library.properties (select 5.13.5 otherwise you will get a deprecation warning)
 
+versions:
+
+```
+|-- ArduinoJson @ 5.13.5
+|-- WiFiManager @ 0.16.0
+|-- Time @ 1.6.1
+|-- Timezone @ 1.2.4
+|-- DNSServer @ 1.1.1
+|-- ESP8266mDNS @ 1.2
+|-- ESP8266WebServer @ 1.0
+|-- ESP8266WiFi @ 1.0
+```
+
 ### Daylight savings
 
 Edit the following lines to adjust to your local time zone and daylight savings.
