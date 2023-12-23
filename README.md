@@ -76,6 +76,14 @@ Select the COM port your board is connected to from the dropdown.
 
 Click flash and 🙏
 
+### Connecting to WiFI
+
+A WiFi server is created by default and can be configured at first boot by connecting to the server SSID.
+
+Search for the default SSID using a phone or device and connect to 192.168.4.1 to access the configuration web page.
+
+Select the "CONFIGURE WIFI" tab then click on your wifi SSID and add the password then hit save.
+
 ### Credits and thanks
 
 All credits go to [aeropic](https://www.thingiverse.com/aeropic/designs) for his original design and code which you can find on [Thingiverse](https://www.thingiverse.com/thing:3417955).
